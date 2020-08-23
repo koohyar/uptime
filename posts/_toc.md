@@ -1,7 +1,5 @@
 [Home](/)
-[Sample Blog Post](/sample-blog-post)
+[Shadow Semaphores](/shadow-semaphores)
 
 <br><br>
 
-To add links to your other posts,
-simply modify contents of `posts/_toc.md`
