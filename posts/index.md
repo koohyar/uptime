@@ -15,10 +15,10 @@ Thought experiments on what is _programming_.
 
 ---
 
-> :ArticleCard src=/shadow-semaphores, style=box
+> :ArticleCard src=/shadow-semaphores
 
 ---
 
 <!-- > :Author src=github -->
 
-> :ToCPrevNext
+<!-- > :ToCPrevNext -->

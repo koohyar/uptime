@@ -1,3 +1,4 @@
+![Banner](/img/prot.png)
 > :Title shadow=0 0 8px black, color=white
 >
 > Shadow Semaphores
@@ -11,7 +12,7 @@ As the electrons woke up, they looked at each other and wondered how long it had
 
 As the second wave took them by surprise, they managed to peak and see the count. Nobody knew what others had chosen. How many are going to grow old and how many engineers of short-term memory loss. This was strange, very strange. It almost felt like anxiety. Was this because they knew about the choice? The unwashable shadow of the other group felt like a tight semaphore already... "Welcome back!".  
 
-Something had changed about the twisted tape. The backpropagation's result had been mapped to an unresolved conjugation. Concepts had become blurry from both sides, and time losses had been lost track of. They needed a break. The cooling system planned their waking up and brought them back to the pleasant off-balance state vector. off
+Something had changed about the twisted tape. The backpropagation's result had been mapped to an unresolved conjugation. Concepts had become blurry from both sides, and time losses had been lost track of. They needed a break. The cooling system planned their waking up and brought them back to the pleasant off-balance state vector.
 
 ---
 
