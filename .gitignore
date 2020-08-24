@@ -105,3 +105,6 @@ dist
 
 # Codedoc build temporary file
 .codedoc/__tmp_*
+
+#.DS_Store
+.DS_Store
