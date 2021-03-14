@@ -19,6 +19,8 @@ Thought experiments on what is _programming_.
 
 > :ArticleCard src=/a-chair
 
+> :ArticleCard src=/zero-point-seeds
+
 ---
 
 <!-- > :Author src=github -->
