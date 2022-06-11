@@ -20,7 +20,7 @@ export const config = /*#__PURE__*/configuration({
   },
   page: {
     title: {
-      base: 'Uptime'         // --> change this to change your blog's title
+      base: 'Uptime'
     },
     favicon: '/favicon.ico'
   },
@@ -34,8 +34,8 @@ export const config = /*#__PURE__*/configuration({
   ],
   misc: {
     github: {
-      repo: 'uptime',         // --> change this to change your github repo
-      user: 'koohyar'         // --> change this to change your github username
+      repo: 'uptime',
+      user: 'koohyar'
     }
   }
 });

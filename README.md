@@ -1,6 +1,6 @@
 # [`coding.blog`](https://coding.blog) boilerplate
 
-Starter project for [`coding.blog`](https://coding.blog) blogs.
+Starter project for [`coding.blog`](https://coding.blog) blogs that uses [CODEDOC](https://codedoc.cc/) and the [`coding.blog` Plugin](https://connect-platform.github.io/coding-blog-plugin/).
 
 ## Prerequisites
 
@@ -9,11 +9,19 @@ and [**CODEDOC** cli](https://codedoc.cc/docs/cli).
 
 ## Local Setup
 
-1. [Fork this repo](https://github.com/CONNECT-platform/coding-blog-boilerplate/fork)
-2. Clone your fork
-3. Go to the cloned folder and run this:
+1. [Use this repo as a template](https://github.com/CONNECT-platform/coding-blog-boilerplate/generate)
+2. Clone your blog repo
+3. Go to the cloned folder and install dependencies:
 ```
 codedoc install
+```
+4. Configure your blog by changing `.codedoc/config.ts`. Running `codedoc check` will instruct you on configurations
+you need to change:
+```
+codedoc check
+```
+5. Run local server:
+```
 codedoc serve
 ```
 
