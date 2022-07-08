@@ -1,6 +1,5 @@
 [Home](/)
 [Shadow Semaphores](/shadow-semaphores)
 [A Chair](/a-chair)
-
-<br><br>
+[Zero-point Seeds](/zero-point-seeds)
 

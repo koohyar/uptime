@@ -1,7 +1,6 @@
-
 import { configuration } from '@codedoc/core';
-import { codingBlog } from '@codedoc/coding-blog-plugin';
-
+import { formulaPlugin } from '@codedoc/core/components';
+import { codingBlog } from '@codedoc/coding-blog-plugin'
 import { theme } from './theme';
 
 
@@ -12,7 +11,7 @@ export const config = /*#__PURE__*/configuration({
     base: 'posts'
   },
   dest: {
-    namespace: '/uptime',    // --> change this if you want to also deploy to GitHub Pages
+    namespace: '/uptime',
     html: 'dist',
     assets: process.env.GITHUB_BUILD === 'true' ? 'dist' : '.',
     bundle: process.env.GITHUB_BUILD === 'true' ? 'bundle' : 'dist/bundle',
@@ -30,7 +29,8 @@ export const config = /*#__PURE__*/configuration({
         'img',
         'favicon.ico',
       ]
-    })
+    }),
+    formulaPlugin
   ],
   misc: {
     github: {

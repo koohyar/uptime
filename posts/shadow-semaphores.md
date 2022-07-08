@@ -1,4 +1,4 @@
-![Banner](/img/prot.png)
+![Banner](/img/prot.svg)
 > :Title shadow=0 0 8px black, color=white
 >
 > Shadow Semaphores
