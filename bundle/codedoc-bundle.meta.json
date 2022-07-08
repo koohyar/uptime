@@ -16,6 +16,11 @@
       "hash": "8YRQ7ltieE8cOOdlVG5GRg=="
     },
     {
+      "name": "zoomOnFormula",
+      "filename": "/home/runner/work/uptime/uptime/.codedoc/node_modules/@codedoc/core/dist/es6/components/formula/zoom-on-formula.js",
+      "hash": "qBjXowtxhcYUFVWEBI5brw=="
+    },
+    {
       "name": "codeSelection",
       "filename": "/home/runner/work/uptime/uptime/.codedoc/node_modules/@codedoc/core/dist/es6/components/code/selection.js",
       "hash": "DGlFnrse/1ZELRye3wR3TA=="
