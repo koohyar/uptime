@@ -48,7 +48,7 @@ pan takes you index. I would not care to try it, as I am happy with my
 subroutines, but I mean should one have a dozen of acyclics to spare... it might
 be somebody else's worth. Typed are the ones that do these stuff. Especially
 after all this never-stolen tape analogy spreading around. Some of them almost
-broke the chair our of excitment when the random index appeared! The return type
+broke the chair out of excitment when the random index appeared! The return type
 is always cool, but you don't keep your index when there's no cache. It was
 smelling like paper crumbs when a senior appended the orbit and the logger only
 started shouting then! I am not particularly against all this _Pure ReturnType_

@@ -21,6 +21,8 @@ Thought experiments on what is _programming_.
 
 > :ArticleCard src=/zero-point-seeds
 
+> :ArticleCard src=/linear-white
+
 ---
 
 <!-- > :Author src=github -->
