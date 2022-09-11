@@ -23,6 +23,8 @@ Thought experiments on what is _programming_.
 
 > :ArticleCard src=/linear-white
 
+> :ArticleCard src=/casts-normal
+
 ---
 
 <!-- > :Author src=github -->
