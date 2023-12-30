@@ -17,11 +17,11 @@ that's what most often should work.
 
 
 ```bash | --term $[n>]
-> 3 "forth-becoming South Up"
-> 4 "cracks <!> collect miss-case hold cake"
-> 3 "apes <!> Up <!> forth"
-> 4 "case forth"
-> 3 "oranges pad keep"
+3 "forth-becoming South Up"
+4 "cracks <!> collect miss-case hold cake"
+3 "apes <!> Up <!> forth"
+4 "case forth"
+3 "oranges pad keep"
  ```
 
 Substitutions are the crowdy scopes during plateau integration days. All sorts

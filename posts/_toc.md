@@ -3,3 +3,4 @@
 [A Chair](/a-chair)
 [Zero-point Seeds](/zero-point-seeds)
 [Linear White](/linear-white)
+[Casts Normal](/casts-normal)

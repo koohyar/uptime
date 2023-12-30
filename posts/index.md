@@ -27,6 +27,5 @@ Thought experiments on what is _programming_.
 
 ---
 
-<!-- > :Author src=github -->
-
-<!-- > :ToCPrevNext -->
+> :Author src=github
+> :ToCPrevNext

@@ -13,7 +13,7 @@ doing more or less the same thing.
 
 
 ```c | --term $
-flex --stdinit state.l
+flex state.l
 gcc parts.c lex.yy.c
 ```
 
