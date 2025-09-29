@@ -11,7 +11,7 @@
 >
 > Uptime
 
-Thought experiments on what is _programming_.
+thought experiments on what is programming
 
 ---
 
@@ -24,6 +24,12 @@ Thought experiments on what is _programming_.
 > :ArticleCard src=/linear-white
 
 > :ArticleCard src=/casts-normal
+
+> :ArticleCard src=/discrete-neutralities
+
+> :ArticleCard src=/textures
+
+> :ArticleCard src=/names-and-lines
 
 ---
 

@@ -1,3 +1,4 @@
+![Banner](/img/rows.png)
 > :Title shadow=0 0 8px black, color=white
 >
 > Textures
@@ -21,6 +22,6 @@ the distribution might conincide with other similar distributions, giving you
 free choice over how to count (basically, how to rank) your indices until you
 reach the modifier. It does not make any difference from the perpective of your
 eventual balance before the return. Your linear estimation should most often
-suffice. But it is anyway nice. Over [run]time you will see a more diverse
+cover everything. But it is anyway nice. Over [run]time you will see a more diverse
 spectrum of difference structures.
 [See here](https://en.wikipedia.org/wiki/Laplace_operator#Vector_Laplacian).

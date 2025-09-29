@@ -1,4 +1,4 @@
-![Banner](/img/trunk_unwrap.svg)
+![Banner](/img/plan1.png)
 
 > :Title shadow=0 0 8px black, color=white
 >
@@ -18,9 +18,9 @@ that's what most often should work.
 
 ```bash | --term $[n>]
 3 "forth-becoming South Up"
-4 "cracks <!> collect miss-case hold cake"
+4 "stairs <!> collect miss-case hold cake"
 3 "apes <!> Up <!> forth"
-4 "case forth"
+4 "case brief"
 3 "oranges pad keep"
  ```
 
@@ -32,8 +32,8 @@ there. It is all automatic now. Quite impressive, to be honest. Nobody would
 have thought some day we would be levitating damn towards these bound modifiers
 and just do nothing. Which is what makes substitutions scopes so crowded, coming
 back to the point. The variety of combinations that these modifiers can provide
-for maintaining indices is beyond cool. You _only_ need to wait up in line and
-empty your cache like a good particle for a good number of orthogonal cycles,
+for maintaining indices is beyond cool. You only need to wait up in line and
+empty your cache for a good number of orthogonal cycles,
 long enough for your profile to be stamped and be moved upwards in your free
 energy. Then you can count the world with these modifiers... so, substitutions;
 one to look out for during plateau integration days.

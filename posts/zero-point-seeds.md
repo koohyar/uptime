@@ -32,7 +32,7 @@ orbits can take your mind off things. But the logger did not like it, especially
 about a chair and in the main scope! 
 
 Logger is not easily disturbed though. Most of the time you don't even know
-they're their. Heaps and heaps of information just pass through them everywhere
+they're there. Heaps and heaps of information just pass through them everywhere
 and none of it touches anything. It's pretty amazing. They say some parts of it
 are ... "intertwined" or some weird term like that. Meaning you could actually
 make sense of it from different indices. It's a strange way to put it, but
@@ -42,15 +42,15 @@ pile up some pattern and even that is already buzzing textures around a
 substitute orbit to do sensible logging instead of making people laugh and
 distract our logger. Format stuff is for the cool and the typed. They know what
 happens since the morning init. Fast lanes almost smell of them! A friend said
-the other you could invoke some of that *painting* choas if you follow typed
+the other day that you could invoke some of that *painting* choas if you follow typed
 elects (they don't finish parses that often) and just wait until some stride or
-pan takes you index. I would not care to try it, as I am happy with my
-subroutines, but I mean should one have a dozen of acyclics to spare... it might
+pan takes your index. I would not care to try it, as I am happy with my
+subroutines. But I mean should one have a dozen of acyclics to spare... it might
 be somebody else's worth. Typed are the ones that do these stuff. Especially
 after all this never-stolen tape analogy spreading around. Some of them almost
-broke the chair out of excitment when the random index appeared! The return type
+broke the chair out of excitement when the random index appeared! The return type
 is always cool, but you don't keep your index when there's no cache. It was
-smelling like paper crumbs when a senior appended the orbit and the logger only
+smelling like paper crumbs until a senior appended the orbit and the logger only
 started shouting then! I am not particularly against all this _Pure ReturnType_
 or _no-op_index_, but some jungles you don't touch. You see roots, you mind your
 home.

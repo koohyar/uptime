@@ -1,4 +1,3 @@
-![Banner](/img/bases.png)
 > :Title shadow=0 0 8px black, color=white
 >
 > Names and Lines
@@ -19,7 +18,7 @@ They keep spaces independent and new lines will have more meaningful semantics.
 The geometry would be easy to understand. Is it a matter of implementation?
 Well, some beleive you can get better rests when your newlines are already part
 of your context. In the sense that you do not find a type for them. Their
-eventual presence might suffice to guarantee consistency through context,
+eventual presence might be good enough to guarantee consistency through context,
 compared to the normal practice of keeping a book of references for where
 semantics have shown up so far.
 
@@ -28,7 +27,7 @@ having a type for the new line gives the context a certain continuity. This is,
 of course, the result of many years of practice, exactly in the matter of the
 book of references. If you keep your scopes simple, you might not need the
 continuity anyway. Context will essentially simplify to the enumeration of your
-book, which when used with simple rules, fits in a pocket. You do not worry
+book; once used with simple rules, it fits on a page. You do not worry
 about its geometry, and it does not need to cache what to modify as a set of
 bound variables.
 
